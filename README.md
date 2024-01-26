@@ -1,4 +1,3 @@
-
 ---------------->PGP<-------------------
 The key is included as an asc file.
 
