@@ -1,9 +1,9 @@
 ---------------->XMPP<------------------
 
-devspil@xmpp.jp
+devspill@xmpp.jp
 
 -------------->DISCORD<-----------------
 
-User: @devspill
+User: @kperm.
 
-Server: https://discord.gg/qEBpFYmq8d
+Server: Got terminated lmao
